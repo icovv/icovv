@@ -1,4 +1,4 @@
 **Hi, I’m Hristo 👋**
 - ✨ BA in Marketing
-- 🌱 I’m currently learning JavaScript in SoftUni
+- ✨ Softuni JS path graduate
 - ⚡ Fun fact: I have experience as a football referee
